@@ -1,5 +1,5 @@
 # FundManagerApplication
-TestFundManager
+Technical Exercise - Equities Software Engineer Position
 
 Remarks!
 There was no info that data must be stored in any way so in my solution there is no storing to any database. 
