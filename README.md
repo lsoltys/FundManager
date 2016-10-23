@@ -6,8 +6,8 @@ There was no info that data must be stored in any way so in my solution there is
 
 My solution consists of:
 - FundService with 3 methods:
-		- void AddStock(Stock stock)
-		- IEnumerable<Stock> GetAllStocks()
+		- void AddStock(Stock stock)<br>
+		- IEnumerable<Stock> GetAllStocks()<br>
 		- FundSummary CalculateSummary()
 
 - WinForms application which is based on MVP (model-view-presenter) pattern
