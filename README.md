@@ -9,9 +9,7 @@ My solution consists of:
 		- void AddStock(Stock stock)<br>
 		- IEnumerable<Stock> GetAllStocks()<br>
 		- FundSummary CalculateSummary()
-
 - WinForms application which is based on MVP (model-view-presenter) pattern
-
 - Tests for FundService
 - Tests for presenter
 - Tests for model
