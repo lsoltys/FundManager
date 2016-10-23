@@ -5,7 +5,7 @@ Remarks!
 There was no info that data must be stored in any way so in my solution there is no storing to any database. 
 
 My solution consists of:
-- FundService with 3 methods:
+- FundService with 3 methods:<br>
 		- void AddStock(Stock stock)<br>
 		- IEnumerable<Stock> GetAllStocks()<br>
 		- FundSummary CalculateSummary()
